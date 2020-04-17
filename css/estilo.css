@@ -1,0 +1,126 @@
+body {
+    width: 1545px; 
+    height: 500px;
+   
+}
+section {
+     border: 10px solid rgb(0, 0, 128);  
+     padding: 5px;
+     overflow: hidden;
+}
+
+.Menu{
+    float: left; 
+    background: #999999; 
+    font-family: Arial;
+    display: inline-block;
+    width: 230px;
+    height: 640px;
+    margin-top: 10px; 
+    margin-left: 30px;
+
+
+}
+nav ul li a:hover{
+    background:#999999;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0);  
+    padding: 2px;
+    overflow: hidden;
+}
+a{
+    text-decoration: none;
+    color:#000;
+    font-size: 30px; 
+    line-height: 100px;
+
+}
+
+.colder{
+    float: left;
+    display: inline-block; 
+    margin: 100px auto;   
+     margin-left: 80px;
+    width: 675px;
+  
+}
+
+.im1{
+     float: left; 
+    background: white; 
+
+     isplay: inline-block;
+    width: 300px; 
+    height: 300px;
+    margin-top: 10px; 
+    margin-left: 80px;
+}
+.im2{
+     float: left; 
+    background: white; 
+
+     display: inline-block;
+    width: 300px; 
+    height: 300px;
+    margin-top: 10px; 
+    margin-left: 80px;
+}
+.im3{
+     float: left; 
+    background: white; 
+
+     display: inline-block;
+    width: 300px; 
+    height: 300px;
+    margin-top: 10px; 
+    margin-left: 80px;
+}
+.im4{
+     float: left; 
+    background: white; 
+
+     display: inline-block;
+    width: 300px; 
+    height: 300px;
+    margin-top: 50px; 
+    margin-left: 80px;
+}
+.im5{
+     float: left; 
+    background: white; 
+
+     display: inline-block;
+    width: 300px; 
+    height: 300px;
+    margin-top: 50px; 
+    margin-left: 80px;
+}
+.im6{
+     float: left; 
+    background: white; 
+
+     display: inline-block;
+    width: 300px; 
+    height: 300px;
+    margin-top: 50px; 
+    margin-left: 80px;
+}
+nav ul {list-style: none;}
+
+nav ul li a {padding:10px
+border: 20px solid rgb(0, 0, 0);  
+     padding: 5px;
+     overflow: hidden;
+} }
+.col{
+     display: inline-block; 
+    width: 875px;
+}
+p{
+  float: right;
+  text-decoration: none;
+    color:#000;
+    font-family: Arial; 
+   font-weight: bold;
+
+}
